@@ -23,7 +23,7 @@ Maven: Para gerenciamento de dependências (já configurado no pom.xml).
 🔧 Instalação
 
 Clone este repositório para o seu ambiente local:
-git clone (https://github.com/seu-repositorio.git)
+git clone (https://github.com/Joaososter/CadastroPagamento..git)
 
 Importe o projeto para sua IDE preferida (Eclipse ou IntelliJ).
 
