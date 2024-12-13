@@ -29,7 +29,7 @@ Importe o projeto para sua IDE preferida (Eclipse ou IntelliJ).
 
 Certifique-se de que o Maven está configurado corretamente.
 
-Compile e execute o projeto. No Eclipse:
+Compile e execute o projeto:
 - Clique com o botão direito no arquivo Main.java > Run As > Java Application.
 
 
@@ -50,4 +50,4 @@ Versão 1.0 - Implementacao inicial
 
 ✒️ Autores
 
-João - Desenvolvimento inicial - Projeto: Sistema de Cadastro e Folha de Pagamento.
+João Pedro Soster - Desenvolvimento inicial - Projeto: Sistema de Cadastro e Folha de Pagamento.
